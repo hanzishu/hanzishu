@@ -52,7 +52,7 @@ speller:
   delimiter: " ;'"
 
 translator:
-  dictionary: hanzi
+  dictionary: hanzi22
 
 reverse_lookup:
   dictionary: pinyin_simp
