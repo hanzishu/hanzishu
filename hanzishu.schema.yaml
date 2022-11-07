@@ -2,13 +2,13 @@
 # encoding: utf-8
 
 schema:
-  schema_id: hanzi22
-  name: 汉字测试22
-  version: "0.12"
+  schema_id: hanzishu
+  name: 汉字树
+  version: "0.15"
   author:
-    - 发明人 
+    - 王中琪 <john@hanzishu.com>
   description:
-    汉字测试22
+    汉字树拼形输入法
   dependencies:
     - pinyin_simp
 
@@ -49,16 +49,28 @@ engine:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " ;'"
+  auto_select: false
+  auto_clear: max_length
+  delimiter: "`"
+  max_code_length: 40
 
 translator:
-  dictionary: hanzi22
+  dictionary: hanzishu
+  initial_quality: 10000
+  enable_charset_filter: true
+  enable_sentence: true
+  enable_encoder: true
+  encode_commit_history: true
+  max_phrase_length: 20
+  enable_completion: true
+  enable_user_dict: true
+  db_class: tabledb
+  disable_user_dict_for_patterns:
+    - "^z.*$"
 
 reverse_lookup:
   dictionary: pinyin_simp
-  prefix: "`"
-#  prefix: "z"
-#  suffix: "'"
+  prefix: "z"
   tips: 〔拼音〕
   preedit_format:
     - xform/([nl])v/$1ü/
@@ -75,4 +87,5 @@ recognizer:
   import_preset: default
   patterns:
     punct: '^/([0-9]0?|[A-Za-z]+)$'
-    reverse_lookup: "`[a-z]*'?$"
+    reverse_lookup: "z[a-z]*?$"
+
