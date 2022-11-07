@@ -56,7 +56,6 @@ speller:
 
 translator:
   dictionary: hanzishu
-  initial_quality: 10000
   enable_charset_filter: true
   enable_sentence: true
   enable_encoder: true
