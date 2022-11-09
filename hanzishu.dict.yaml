@@ -201,7 +201,6 @@ encoder:
 畲	avq	90166
 灿	awiu	93254
 烽	axe	90581
-焙	axe	90601
 烧	axh	112078
 烯	axhn	90425
 烙	axo	91093
@@ -220,6 +219,7 @@ encoder:
 态	ayl	167219
 燧	aymy	90221
 煸	ayn	90101
+焙	ayo	90601
 郏	ayp	90305
 炕	ayr	91949
 今	ays	216624
@@ -1311,8 +1311,8 @@ encoder:
 荷	hjto	105249
 薇	hjwhrx	91504
 荽	hjx	90089
-蓓	hjxe	90619
 莅	hjy	90214
+蓓	hjyo	90619
 著	hkb	136239
 莛	hkhl	90008
 莰	hkja	90001
@@ -1505,7 +1505,6 @@ encoder:
 芬	hvp	98218
 蒜	hvv	91091
 茁	hwu	90337
-菩	hxe	95477
 蓬	hxey	94225
 薅	hxfhgt	90062
 荛	hxh	90141
@@ -1565,6 +1564,7 @@ encoder:
 薄	hynt	105150
 萤	hyo	91103
 菪	hyo	90052
+菩	hyo	95477
 蒿	hyono	90412
 藁	hyonom	90059
 营	hyoo	166372
@@ -2634,8 +2634,6 @@ encoder:
 催	jwje	96538
 铠	jwl	90408
 锋	jxe	100783
-锫	jxe	90042
-倍	jxe	106102
 铎	jxe	90813
 篷	jxey	93315
 饶	jxh	95079
@@ -2717,6 +2715,8 @@ encoder:
 牖	jyn	90128
 箭	jyni	103922
 簿	jynt	92333
+锫	jyo	90042
+倍	jyo	106102
 僧	jyob	96920
 锿	jyoj	90068
 镐	jyono	90451
@@ -3885,7 +3885,6 @@ encoder:
 腓	nvih	90984
 舢	nwiu	90132
 瞥	nxb	92840
-赔	nxe	99960
 弊	nxh	94579
 贼	nxh	97045
 贱	nxhh	93270
@@ -3941,6 +3940,7 @@ encoder:
 舵	nyl	91689
 闹	nyn	107764
 霈	nyn	90040
+赔	nyo	99960
 赠	nyob	96004
 膻	nyoobh	90098
 脱	nyov	124548
@@ -4252,7 +4252,6 @@ encoder:
 蹦	oiwnn	92358
 践	oix	102242
 跛	oix	90648
-踣	oixe	90011
 跷	oixh	90783
 跻	oixj	90572
 路	oixo	231812
@@ -4261,6 +4260,7 @@ encoder:
 踉	oiyd	91403
 跎	oiyl	90144
 蹁	oiyn	90022
+踣	oiyo	90011
 蹭	oiyob	90793
 螳	oiyok	90428
 蹲	oiyot	93720
@@ -4613,8 +4613,6 @@ encoder:
 础	owu	120477
 咄	owu	91282
 黜	owu	90482
-醅	oxe	90010
-碚	oxe	90164
 蜂	oxe	97989
 哓	oxh	90045
 蛲	oxh	90076
@@ -4692,6 +4690,8 @@ encoder:
 蝙	oyn	90679
 碥	oyn	90036
 蝤	oyo	90010
+醅	oyo	90010
+碚	oyo	90164
 噌	oyob	90098
 罾	oyob	90082
 橐	oyom	90302
@@ -5413,7 +5413,6 @@ encoder:
 拙	twu	92833
 鍪	txa	90242
 瞀	txb	90029
-掊	txe	90024
 择	txe	123615
 挠	txh	92523
 撼	txhol	91922
@@ -5447,6 +5446,7 @@ encoder:
 挥	tyk	139702
 抖	tyk	99584
 掮	tyn	90183
+掊	tyo	90024
 搞	tyono	114265
 擅	tyoobh	94372
 攘	tyooej	91138
@@ -5637,11 +5637,9 @@ encoder:
 婕	xdhs	90193
 瓿	xeh	90061
 娅	xehi	92230
-剖	xei	93767
 婊	xej	90445
 媾	xen	90314
 婧	xen	90084
-部	xep	493066
 釜	xey	90722
 逢	xey	95632
 斧	xffh	92598
@@ -6401,6 +6399,7 @@ encoder:
 溃	yohn	97962
 寰	yohoj	90598
 浞	yoi	90118
+剖	yoi	93767
 冲	yois	143378
 潞	yoixo	90430
 哀	yoj	99693
@@ -6433,6 +6432,7 @@ encoder:
 澡	yooom	92882
 泗	yoov	90373
 禀	yoov	92048
+部	yop	493066
 渑	yoq	90100
 涠	yos	90056
 享	yot	110830
@@ -6664,7 +6664,6 @@ encoder:
 逆	ywy	97339
 泽	yxe	124311
 译	yxe	112170
-涪	yxe	90145
 滏	yxey	90014
 綮	yxg	90021
 浇	yxh	92265
@@ -6762,6 +6761,7 @@ encoder:
 湔	yyni	90069
 谫	yynip	90018
 商	yynvo	195406
+涪	yyo	90145
 瀛	yyonnry	90636
 澶	yyoobh	90070
 禳	yyooej	90137
