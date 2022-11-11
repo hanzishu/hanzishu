@@ -6,7 +6,13 @@
 
 ![alt text](https://hanzishu.com/zi/usage_files/image002.png)
 
+汉字树拼形输入法程序建于知名的Rime输入法框架之上，将支持各种系统，包括视窗电脑上的小狼毫，苹果电脑上的鼠须管，Linux上的ibus-rime，安卓手机上的同文，和苹果手机上的iRime。
+
+The program builds on top of the well known Rime input method platform and will support various systems, including Weasel for Windows, Squirrel for MacOS,  ibus-rime for Linux, Tongwen for Android and iRime for iPhone.
+
 安装程序   Install the program:		https://hanzishu.com/zi
+
+打字培训练习	Typing training exercises:	https://hanzishu.com, 从底部选 choose from the bottom: 输入法/Typing。
 
 发明人 Inventor： 王中琪	  john@hanzishu.com
  
