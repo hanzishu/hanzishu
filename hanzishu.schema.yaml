@@ -3,7 +3,7 @@
 
 schema:
   schema_id: hanzishu
-  name: 汉字树
+  name: 汉字树拼形输入法
   version: "0.15"
   author:
     - 王中琪 <john@hanzishu.com>
