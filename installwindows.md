@@ -10,6 +10,8 @@ https://github.com/hanzishu/hanzishu/blob/main/hanzishu-weasel-0.15.0.0-installe
 2. 鼠标双按下载了的hanzishu-weasel-0.15.0.0-installer.exe文件来安装程序。
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installerfile.png)
+
+注意：如果机器中已经装有小狼毫，可以直接加装汉字树拼形输入法的字库（苹果电脑安装步骤中有）。
              	
 3. 同意运行没有数字签名的安装程序	
 
