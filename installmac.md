@@ -15,22 +15,28 @@ https://rime.im/
                        
 2） 选择鼠须管 
 
-![alt text](https://github.com/hanzishu/hanzishu/blob/main/choosesquirrelkeymapping.png)
+![alt text](https://github.com/hanzishu/hanzishu/blob/main/choosesquirrel.png)
                       
 3） 安装汉字树拼形输入法和袖珍拼音文件
 
 从一个终端，执行以下指令 （建议一行一行复制/拷贝）:
 
 cd ~/Library/Rime
+
 curl -fsSL https://git.io/rime-install | bash -s -- hanzishu/hanzishu
+
 curl -fsSL https://git.io/rime-install | bash -s -- rime/rime-pinyin-simp
 
-注意：如果你遇到“No such file or dictionary”的信息，你可以直接下载下面4个文件，然后拷贝到安装地点 ~/library/rime (就是/users/[你的名字]/library/rime). 如果文件的内容显示在游览器上，你可以将它存在本地文件。在Finder程序中，你可以选择Go > Go to Folder, 然后在窗口中打入‘Go’到达~/Library。
+注意：如果你遇到“No such file or dictionary”的信息，你可以直接下载下面4个文件，然后拷贝到安装地点: /users/[你的名字]/library/rime, 也就是 （~/Library/Rime）。 如果文件的内容显示在游览器上，你可以将它存在本地文件。在Finder程序中，你可以选择Go > Go to Folder, 然后在窗口中打入‘Go’到达Library。
 
 https://github.com/hanzishu/hanzishu/blob/main/hanzishu.dict.yaml
+
 https://github.com/hanzishu/hanzishu/blob/main/hanzishu.schema.yaml
+
 https://github.com/rime/rime-pinyin-simp/blob/master/pinyin_simp.dict.yaml
+
 https://github.com/rime/rime-pinyin-simp/blob/master/pinyin_simp.schema.yaml
+
 [Note: There is an underscore '_' between ‘pinyin’ and ‘simp.dict.yaml’.]
 
 4） 将选择的输入法写入一个新创立的文件	
@@ -38,9 +44,13 @@ https://github.com/rime/rime-pinyin-simp/blob/master/pinyin_simp.schema.yaml
 从一个终端，执行以下指令（建议一行一行复制/拷贝）:
 
 cd ~/Library/Rime
+
 echo "patch:" > ~/Library/Rime/default.custom.yaml
+
 echo " schema_list:" >> ~/Library/Rime/default.custom.yaml
+
 echo " - schema: hanzishu" >> ~/Library/Rime/default.custom.yaml
+
 echo " - schema: pinyin_simp" >> ~/Library/Rime/default.custom.yaml
       
 
