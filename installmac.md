@@ -13,7 +13,7 @@ https://rime.im/
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/privacy.png)
        
                        
-2） 选择鼠须管 
+2） 安装完毕后，从输入法菜单中选择鼠须管 
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/choosesquirrel.png)
                       
@@ -61,6 +61,8 @@ echo " - schema: pinyin_simp" >> ~/Library/Rime/default.custom.yaml
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/deploymenu.png)
                            
 现在，在需要时，你就可以按照第二步选择鼠须管, 在各个程序中,比如，游览器，微软的Word或Excel等，使用汉字树拼形输入法输入汉字了。
+
+回到主网站读使用指南： https://github.com/hanzishu
 
 
 
