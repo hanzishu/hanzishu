@@ -16,7 +16,7 @@
 
 ---
 name: "hanzishu"
-version: "0.15"
+version: "0.18.3"
 sort: by_weight
 use_preset_vocabulary: false
 max_phrase_length: 10
@@ -9293,7 +9293,7 @@ encoder:
 中华儿女		110
 中华文化		326
 中华文明		166
-中华民国		322
+中华人民共和国		322
 中华民族		1703
 中华网		147
 中南		431
