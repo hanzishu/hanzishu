@@ -22,8 +22,20 @@ https://github.com/hanzishu/hanzishu/blob/main/hanzishu-weasel-0.15.0.0-installe
 5. 开始安装程序
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installlocation.png)
+
+6. 选择输入法
+
+![alt text](https://github.com/hanzishu/hanzishu/blob/main/chooseinputmethods.png)
+
+按“中”。 其中的袖珍拼音用于拼音反查。
+
+7. 选择介面设计
+
+![alt text](https://github.com/hanzishu/hanzishu/blob/main/chooseui.png)
+
+按“中”。
               
-6. 接“完成”键关闭安装程序
+8. 接“完成”键关闭安装程序
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installcomplete.png)
               
