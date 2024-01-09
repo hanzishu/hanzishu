@@ -51,6 +51,6 @@ Now every time you need, you can choose Weasel as shown in step 2c, then you can
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/starttyping.png)
 
-Back to the main instruction page： https://github.com/hanzishu-en
+Back to the main instruction page： https://github.com/hanzishu/hanzishu/blob/main/README-en.md
 
 

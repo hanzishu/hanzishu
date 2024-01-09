@@ -31,7 +31,7 @@ Before typing, to use the Hanzishu input method, choose “Weasel” for Windows
 
 Hanzishu has built-in Pinyin method. You first type 'z' as an indicator, then type Pinyin. If you want to type Chinese character '森' using the built-in Pinyin, you type 'z' first, then type Pinyin 'sen'. At this time, the editor screen would show "zsen', the candidate characters including ‘森’ are there for you to choose. Next to the ‘森’, the Hanzishu code of 'eki' is listed for your review.
 
-3) Automatic phrase creation
+3） Automatic phrase creation
 
 After you type two to 10 words with their full code once without selection in between, you can type them as phrase next time.   You can also use the full code of an existing phrase along with words to create a longer phrase.
 
