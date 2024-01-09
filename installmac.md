@@ -56,7 +56,7 @@ echo " - schema: hanzishu" >> ~/Library/Rime/default.custom.yaml
 echo " - schema: pinyin_simp" >> ~/Library/Rime/default.custom.yaml
       
 
-5） 重新部置		Re-deploy
+5） 重新部置
 
 在鼠松管设置中，执行“重新部置”指令.
 

@@ -45,7 +45,7 @@ https://github.com/hanzishu/hanzishu/blob/main/hanzishu-weasel-0.15.0.0-installe
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/choosecnsquirrel.png)
 
-输入法菜单将如下图所示     Input method menu will look like below
+输入法菜单将如下图所示
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/choosechinese.png)
 
