@@ -64,7 +64,7 @@ In Squirrel settings, execute “Deploy” command.
                            
 Now, when needed, you can choose Squirrel as shown in step 2, and use Hanzishu input method to type in Chinese characters in each program like browser, Microsoft Word or Excel, etc.
 
-Go back to the main instrcution page： https://github.com/hanzishu
+Go back to the main instrcution page： https://github.com/hanzishu/hanzishu/blob/main/README-en.md
 
 
 
