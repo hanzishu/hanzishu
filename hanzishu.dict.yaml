@@ -5,7 +5,7 @@
 # 发明人： 王中琪	  john@hanzishu.com
 #
 # 制作： 11.06.2022
-#
+# 最后改动： 03.27.2024
 # 字参照 GB2312，现代汉语通用字表等标准
 # Phrases derived from android open source project:
 # http://android.git.kernel.org/?p=platform/packages/inputmethods/PinyinIME.git
@@ -16,7 +16,7 @@
 
 ---
 name: "hanzishu"
-version: "0.18.3"
+version: "0.19.1"
 sort: by_weight
 use_preset_vocabulary: false
 max_phrase_length: 10
@@ -32,21 +32,21 @@ encoder:
     - length_equal: 2
       formula: "AaAbBaBb"
     - length_equal: 3
-      formula: "AaAbBaBbCaCb"
+      formula: "AaBaCa"
     - length_equal: 4
-      formula: "AaAbBaBbCaCbDaDb"
+      formula: "AaBaCaDa"
     - length_equal: 5
-      formula: "AaAbBaBbCaCbDaDbEaEb"
+      formula: "AaBaCaDaEa"
     - length_equal: 6
-      formula: "AaAbBaBbCaCbDaDbEaEbFaFb"
+      formula: "AaBaCaDaEaFa"
     - length_equal: 7
-      formula: "AaAbBaBbCaCbDaDbEaEbFaFbGaGb"
+      formula: "AaBaCaDaEaFaGa"
     - length_equal: 8
-      formula: "AaAbBaBbCaCbDaDbEaEbFaFbGaGbHaHb"
+      formula: "AaBaCaDaEaFaGaHa"
     - length_equal: 9
-      formula: "AaAbBaBbCaCbDaDbEaEbFaFbGaGbHaHbIaIb"
+      formula: "AaBaCaDaEaFaGaHaIa"
     - length_equal: 10
-      formula: "AaAbBaBbCaCbDaDbEaEbFaFbGaGbHaHbIaIbJaJb"
+      formula: "AaBaCaDaEaFaGaHaIaJa"
 ...
 
 众	aaa	99616

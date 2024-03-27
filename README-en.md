@@ -76,7 +76,7 @@ All components are divided into five large categories and 25 smaller categories,
 
 - Chinese word with double Chinese alphabets: type the two alphabets, then type the first two makeup Chinese alphabets of the second alphabet. (ex: 件 : 亻牛丿. : jtjt; 字 : 宀子乛亅: ytsi)
 
-- Word phrase: type first two Chinese alphabets of every word. (ex：老师 : 耂匕.一: flve; 学生 : .冖牛一 : wnte; 中文 : 中丨文亠 : oixy)
+- Word phrase: For two word phrases, type first two Chinese alphabets of every word. (ex：老师 : 耂匕.一: flve; 学生 : .冖牛一 : wnte; 中文 : 中丨文亠 : oixy). For three or more word phrases, type first Chinese alphabet from each word. (ex：颐和园：.禾口: cmo）
 
 - Sentence: Type full code for each word or word phrase. (ex：'学生喜欢中文' : 'wnkeeoxjoixy' or 'wntteeeoyoxjaoisxyx')
 
