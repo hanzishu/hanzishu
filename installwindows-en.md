@@ -3,7 +3,7 @@ Windows computers：Install Hanzishu Puzzle Input Method (Weasel platform)
 
 Download and run installation program. Detailed steps are shown below. 
 
-1. Enter into following address from a browser and download the exe file
+1. Enter into following address from a browser and choose to download the exe file
 
 https://github.com/hanzishu/hanzishu/blob/main/hanzishu-weasel-0.15.0.0-installer.exe
    

@@ -3,7 +3,7 @@
 
 下载并运行安装程序。具体步骤如下所示。  
 
-1. 从游览器打入以下网址并下载该文件
+1. 从游览器打入以下网址并选择下载该文件
 
 https://github.com/hanzishu/hanzishu/blob/main/hanzishu-weasel-0.15.0.0-installer.exe
    
