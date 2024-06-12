@@ -56,7 +56,7 @@ All components are divided into five large categories and 25 smaller categories,
 - Mouth categories： Single mouth （口/O），Up & down mouth（日/B），four mouths（田/Q）
 - Leg categories： Human legs（人/A），crossed legs（乂/X），left & right legs（尺/R），separated legs（八/V），three legs（木/M）
 - Common shape categories：T shape（丁/T），D shape（刀/D），P shape（卩/P），cliff（厂/F），triangle（厶/G），H shape（艹/H），K shape（长/K）
-- Stroke categories：Horizontal lines（三/E），Vertical lines（丨/I），Arc as 1st stroke（丿/J），Pure dots（/W），Mixed dots（丫/Y），L shape（L/L）
+- Stroke categories：Horizontal lines（E/E），Vertical lines（丨/I），Arc as 1st stroke（丿/J），Pure dots（/W），Mixed dots（丫/Y），L shape（L/L）
    
 3） Illustration of components/key mapping
        
