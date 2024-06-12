@@ -39,6 +39,7 @@ After you type two to 10 words with their full code once without selection in be
 
 If you want to delete a custom-auto-made phrase, you can more the cursor (with up and down arrow keys) to the custom-auto-made phrase, then press Shift+Delete or Control+Delete for Windows computers, and Shift+Fn+Delete for Mac computers.
 
+Note: Current Rime framework has an issue. Sometimes the framework server would not respond to a user's typing. A tempararily method is: Under Windows computer, from File Manager, go to [c:]\Program files(x86)\Rime\hanzishu-weasel-0.15.0\, use mouse the restart 'WeaselServer.exe'. Under Mac computer, first switch to a different input method, then switch back.
 
 4． Components of the Hanzishu puzzle input method
 
