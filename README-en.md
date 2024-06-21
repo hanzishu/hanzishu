@@ -71,16 +71,9 @@ All components are divided into five large categories and 25 smaller categories,
 
 1） Input components:
 
-- Chinese word with three or more Chinese alphabets: type all alphabets. （ex：品:口口口: ooo；您:亻.小心 : jjil）
+- Chinese word: type the corresponding letters of Chinese alphabets it contains in sequence. （Ex：口：'口'-〉'o'； 吕： '口口'-〉'oo'； 品:'口口口'-〉'ooo'）
 
-- Chinese word with Single Chinese alphabet: type the alphabet, then type the first two makeup Chinese alphabets of the alphabet. (ex: 日 : 日口一 : boe; 大 : 大..: afw; 十 : 十一丨: tei)
-
-- Chinese word with double Chinese alphabets: type the two alphabets, then type the first two makeup Chinese alphabets of the second alphabet. (ex: 件 : 亻牛丿. : jtjt; 字 : 宀子乛亅: ytsi)
-
-- Word phrase: For two word phrases, type first two Chinese alphabets of every word. (ex：老师 : 耂匕.一: flve; 学生 : .冖牛一 : wnte; 中文 : 中丨文亠 : oixy). For three or more word phrases, type first Chinese alphabet from each word. (ex：颐和园：.禾口: cmo）
-
-- Sentence: Type full code for each word or word phrase. (ex：'学生喜欢中文' : 'wnkeeoxjoixy' or 'wntteeeoyoxjaoisxyx')
-
+- Word phrase: For two word phrases, type first two Chinese alphabets of every word. (ex：老师 : 耂匕.一: flve; 学生 : .冖牛一 : wnte; 中文 : 中文 : ox). For three or more word phrases, type first Chinese alphabet from each word. (ex：颐和园：.禾口: cmo）
 
 2） Rules for breaking up words into Chinese alphabets
 
@@ -89,16 +82,8 @@ All components are divided into five large categories and 25 smaller categories,
 - Don’t break up strokes that are crossing through each other (ok to break up touch or disconnected strokes). For example： ‘井’ cannot be broken into smaller alphabets; 明 : ‘日’和‘月’; 古 : ‘十’和‘口’
 
 - As few alphabets as possible (If same, choose the one which first alphabet contains more strokes). For example：房 : ‘户’和‘方’ （instead of breaking up into four alphabets）; 夏 : The first alphabet has two strokes instead of just one
-
-3） Makeup Chinese alphabet
-
-The smaller alphabets contained in an alphabet is called makeup alphabets, and are used to distinuish different alphabets themselves.
-
-The rules for getting makeup alphabets from an alphabet is similar as the rules to break up words into alphabets, but if you couldn’t get two or more makeup alphabets, you can break up strokes that are crossing through each other into individual (stroks) alphabets as makeup alphabets; for a few fold strokes that are not alphabets, you can treat them same as ‘フ’ or ‘L‘（stroke）alphabets according to shape similarity. See chart below.
-
-![alt text](https://github.com/hanzishu/hanzishu/blob/main/strokemapping.png)
    
-4） A real example
+3） A real example
 
 Steps to type word ‘品’:
 
