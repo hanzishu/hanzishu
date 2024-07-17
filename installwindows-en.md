@@ -11,6 +11,7 @@ https://github.com/hanzishu/hanzishu/blob/main/hanzishu-weasel-0.15.0.0-installe
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/downloadexe.png)
    
 3. Double click the downloaded hanzishu-weasel-0.15.0.0-installer.exe to run the installation. （Choose send to scan if prompted.）
+
 If unable to download the exe file, try a different browser, or download from the link from a Windows version of WeChat program.
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installerfile.png)

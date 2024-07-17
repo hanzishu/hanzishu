@@ -73,7 +73,9 @@ All components are divided into five large categories and 25 smaller categories,
 
 - Chinese word: type the corresponding letters of Chinese alphabets it contains in sequence. （Ex：口：'口'-〉'o'； 吕： '口口'-〉'oo'； 品:'口口口'-〉'ooo'）
 
-- Word phrase: For two word phrases, type first two Chinese alphabets of every word. (ex：老师 : 耂匕.一: flve; 学生 : .冖牛一 : wnte; 中文 : 中文 : ox). For three or more word phrases, type first Chinese alphabet from each word. (ex：颐和园：.禾口: cmo）
+- Word phrase: For two word phrases, type first two Chinese alphabets of every word. (例：忠厚: 中心厂日: olfb; 中文: 中文: ox)。 
+
+- Three or more than three words: type first Chinese alphabet of each word。（例：中国人： 中口人: ooa）
 
 2） Rules for breaking up words into Chinese alphabets
 
