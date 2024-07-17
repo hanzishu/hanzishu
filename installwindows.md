@@ -6,36 +6,41 @@
 1. 从游览器打入以下网址并选择下载该文件
 
 https://github.com/hanzishu/hanzishu/blob/main/hanzishu-weasel-0.15.0.0-installer.exe
+
+2. 在下载页面，选择红线所示的下载箭头
+![alt text](https://github.com/hanzishu/hanzishu/blob/main/downloadexe.png)
    
-2. 鼠标双按下载了的hanzishu-weasel-0.15.0.0-installer.exe文件来安装程序。
+3. 鼠标双按下载了的hanzishu-weasel-0.15.0.0-installer.exe文件来安装程序。
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installerfile.png)
+或者从文件管理器的下载文件夹找到下载的文件，并且执行。
+如果文件下载不了，可以尝试不同的游览器，或者从视窗版的微信程序中的链接下载。
              	
-3. 同意运行没有数字签名的安装程序	
+4. 同意运行没有数字签名的安装程序	
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/publisherunknown.jpg)
 
-4. 接受授权条款
+5. 接受授权条款
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/acceptdialog.png)
                
-5. 开始安装程序
+6. 开始安装程序
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installlocation.png)
 
-6. 选择输入法
+7. 选择输入法
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/chooseinputmethods.png)
 
 按“中”。 其中的袖珍拼音用于拼音反查。
 
-7. 选择介面设计
+8. 选择介面设计
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/chooseui.png)
 
 按“中”。
               
-8. 接“完成”键关闭安装程序
+9. 接“完成”键关闭安装程序
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installcomplete.png)
               
