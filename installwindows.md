@@ -15,7 +15,7 @@ https://github.com/hanzishu/hanzishu/blob/main/hanzishu-weasel-0.15.0.0-installe
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installerfile.png)
 
 或者从文件管理器的下载文件夹找到下载的文件，并且执行。
-如果文件下载不了，可以尝试不同的游览器，或者从视窗版的微信程序中的链接下载。
+如果文件下载不了，可以尝试不同的游览器，或者从视窗版的微信程序中的链接下载，或者使用公用网。
              	
 4. 同意运行没有数字签名的安装程序	
 
