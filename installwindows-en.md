@@ -3,42 +3,38 @@ Windows computers：Install Hanzishu Puzzle Input Method (Weasel platform)
 
 Download and run installation program. Detailed steps are shown below. 
 
-1. Enter into following address from a browser and choose to download the exe file
+1. Click following link or enter the following address from a browser and choose to download the exe file
 
-https://github.com/hanzishu/hanzishu/blob/main/hanzishu-weasel-0.15.0.0-installer.exe
-
-2. In the download webpage, choose the download arrow as marked
-![alt text](https://github.com/hanzishu/hanzishu/blob/main/downloadexe.png)
+https://raw.githubusercontent.com/hanzishu/hanzishu/main/hanzishu-weasel-0.15.0.0-installer.exe
    
-3. Double click the downloaded hanzishu-weasel-0.15.0.0-installer.exe to run the installation. （Choose send to scan if prompted.）
+2. Double click the downloaded hanzishu-weasel-0.15.0.0-installer.exe from the download complete prompt to run the installation. （Choose send to scan if prompted.）
 
-If unable to download the exe file, try a different browser, or download from the link from a Windows version of WeChat program， or use a public network.
+Or you can go to the download folder in the file manager and execute the program.
+If unable to download/find the exe file, try a different browser, or download from the link from a Windows version of WeChat program， or use a public network.
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installerfile.png)
              	
-4.   Choose yes to allow the unsigned installation app to run
+3.   Choose yes to allow the unsigned installation app to run
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/publisherunknown.jpg)
 
-5.  Click ‘I accept (I)’ to accept the license agreement
+4.  Click ‘I accept (I)’ to accept the license agreement
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/acceptdialog.png)
                
-6.  Click ‘Install (I)’ to install the app
+5.  Click ‘Install (I)’ to install the app
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installlocation.png)
 
-7. Choose “中” to pick the default input methods. The Pinyin is used for the built-in feature.
+6. Choose “中” to pick the default input methods. The Pinyin is used for the built-in feature.
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/chooseinputmethods.png)
 
-
-8. Choose “中” to pick up the default interface.
+7. Choose “中” to pick up the default interface.
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/chooseui.png)
-
        
-9.  Click ‘Finish’ button to close the installation program
+8.  Click ‘Finish’ button to close the installation program
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installcomplete.png)
               
