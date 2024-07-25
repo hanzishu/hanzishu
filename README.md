@@ -18,8 +18,9 @@
 
 苹果电脑安装: https://github.com/hanzishu/hanzishu/blob/main/installmac.md
 
-Unix电脑，苹果手机和安卓手机: 通用版本还在测试中，可以先使用本输入法网络版或专用手机版的编辑器，见笫六和笫七节。
+苹果手机,安卓手机和Unix电脑，: 通用版本还在测试中，可以先使用本输入法网络版或专用手机版的编辑器，见笫六和笫七节。
 
+注： 需要时可以下载以下视窗电脑安装全过程视频看一下，仅一分钟时间：https://raw.githubusercontent.com/hanzishu/hanzishu/main/video/InstallHanzishuTyping.mp4
 
 三．通用拼形输入法程序的用法
 

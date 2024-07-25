@@ -21,6 +21,8 @@ Apple computer installation: https://github.com/hanzishu/hanzishu/blob/main/inst
 
 iPhone, Android phones and Unix computers: Similar as Windows and Mac computers, but are still under testing. You can use the specific editor as listed in section six and seven.
 
+Note: If necessary, you can download following installation video for Windows to take a look, it's only 1 minute long.
+https://raw.githubusercontent.com/hanzishu/hanzishu/main/video/InstallHanzishuTyping.mp4
 
 3．Usage of the general purpose Hanzishu puzzle input method
 
