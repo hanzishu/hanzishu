@@ -128,6 +128,6 @@ Hanzishu puzzle typing method comes with a practice course.
 As mentioned earlier, first go to the Hanzishu web site or phone app, from the main menu, select 'typing'. The typing exercises include input method course, single component typing exercies and common character practices.
 
 
-Inventor	Wang, Zhongqi 王中琪 （Seattle） john@hanzishu.com
+Inventor	王中琪 john@hanzishu.com
 
 
