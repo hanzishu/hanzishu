@@ -1,5 +1,5 @@
 ﻿
-视窗电脑： 安装汉字树拼形输入法(包括小狼毫框架)程序
+视窗电脑： 安装汉字树象形输入法(包括小狼毫框架)程序
 
 下载并运行安装程序。具体步骤如下所示。  
 
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/hanzishu/hanzishu/main/weasel-1.0.0.0-installe
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/choosechinese.png)
 
-然后在各个程序中，比如，Notepad， 游览器，Word， Excel等程序，就可以使用汉字树拼形输入法来输入汉字并且可以拼音反查了。比如，在Notepad程序中，打入“ooo”，你将看到下列第一个字为‘品’的图形。前页的使用链接有更多的信息。
+然后在各个程序中，比如，Notepad， 游览器，Word， Excel等程序，就可以使用汉字树象形输入法来输入汉字并且可以拼音反查了。比如，在Notepad程序中，打入“ooo”，你将看到下列第一个字为‘品’的图形。前页的使用链接有更多的信息。
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/starttyping.png)
 
 回到主网站读使用指南： https://github.com/hanzishu

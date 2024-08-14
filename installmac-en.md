@@ -1,5 +1,5 @@
 ﻿
-Apple Mac computer: Install Rime/Squirrel input platform and Hanzishu puzzle typing method (Note: Will gradually simplify the installation steps)
+Apple Mac computer: Install Rime/Squirrel input platform and Hanzishu pictographic typing method (Note: Will gradually simplify the installation steps)
 
 
 1）Use browser to download Squirrel input platform from following address：

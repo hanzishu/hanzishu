@@ -1,9 +1,9 @@
 ﻿[中文版安装指南: https://github.com/hanzishu ]
 
-Hanzishu Puzzle Input Method
+Hanzishu Pictographic Input Method
 
 
-1． Hanzishu Puzzle Input Method
+1． Hanzishu Pictographic Input Method
 
 A Chinse character typing method that breaks up Chinese words into Chinese alphabets, and types letters corresponding to the shape characteristics of the Chinese alphabets through standard keyboard to type Chinese word, phrases and sentences.  The shape intuitive method requires almost zero basic knowledge to start, and inlcudes built-in Pinyin for reverse searching and improving while using. One can also practice with the typing exercise courses and do it in one step. (Hint: For “品”, just type “OOO”。)
 
@@ -24,7 +24,7 @@ iPhone, Android phones and Unix computers: Similar as Windows and Mac computers,
 Note: If necessary, you can download following installation video for Windows to take a look, it's only 1 minute long.
 https://raw.githubusercontent.com/hanzishu/hanzishu/main/video/InstallHanzishuTyping.mp4
 
-3．Usage of the general purpose Hanzishu puzzle input method
+3．Usage of the general purpose Hanzishu pictographic input method
 
 Before typing, to use the Hanzishu input method, choose “Weasel” for Windows or “Squirrel” for Mac from computer‘s input method menu. Note that the general purpose version uses "Weasel/Squirrel/Rime" platform.
 
@@ -44,14 +44,14 @@ If you want to delete a custom-auto-made phrase, you can more the cursor (with u
 
 Note: Current Rime framework has an issue. Sometimes the framework server would not respond to a user's typing. A tempararily method is: Under Windows computer, from File Manager, go to [c:]\Program files(x86)\Rime\hanzishu-weasel-0.15.0\, use mouse the restart 'WeaselServer.exe'. Under Mac computer, first switch to a different input method, then switch back.
 
-4． Components of the Hanzishu puzzle input method
+4． Components of the Hanzishu pictographic input method
 
 1） Standard
 
-Puzzle input method is based on the national standard of basic components defined in <Chinese Character Component Standard of GB 13000.1 Character Set for Information Processing>, therefore it has the authority and scientificity.
+Pictographic input method is based on the national standard of basic components defined in <Chinese Character Component Standard of GB 13000.1 Character Set for Information Processing>, therefore it has the authority and scientificity.
 
 
-2） Hanzishu puzzle input method's categorization of the Chinese Character basic components (simplified as 'components' in this document)
+2） Hanzishu pictographic input method's categorization of the Chinese Character basic components (simplified as 'components' in this document)
 
 All components are divided into five large categories and 25 smaller categories, corresponding to 25 upper case letters.
 
@@ -70,7 +70,7 @@ All components are divided into five large categories and 25 smaller categories,
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/detailedkeymapping.png)
        
 
-5． Method of inputting components in the puzzle input method
+5． Method of inputting components in the pictographic input method
 
 1） Input components:
 
@@ -100,30 +100,30 @@ Steps to type word ‘品’:
 - The English letters in the editing field that represents ‘品’will be converted to word ‘品’ automatically.
 
 
-6． Phone version of specific editor that supports puzzle typing method
+6． Phone version of specific editor that supports pictographic typing method
 
 iPhone: From Apple app store, download 'Hanzishu' app.
 Android phones: From Google play store, download 'Hanzishu' app.
 
-From the bottom of the main menu, select 'typing', then select 'editor'. The editor has puzzle input method built-in, therefore just set the input language as the standard English input, and start typing with the puzzle typing method.
+From the bottom of the main menu, select 'typing', then select 'editor'. The editor has pictographic input method built-in, therefore just set the input language as the standard English input, and start typing with the pictographic typing method.
 
 The typing method is same as the general purpose program, and it also has built-in Pinyin input method, but it doesn't support phrases or sentences yet. 
 
 
-7．Network version of specific editor that supports puzzle typing method
+7．Network version of specific editor that supports pictographic typing method
 
 From browser of a phone or a computer, open up the web page https://hanzishu.com
 
-From the bottom of the main menu, select 'typing', then select 'editor'. The editor has puzzle input method built-in, therefore just set the input language as the standard English input, and start typing with the puzzle typing method.
+From the bottom of the main menu, select 'typing', then select 'editor'. The editor has pictographic input method built-in, therefore just set the input language as the standard English input, and start typing with the pictographic typing method.
 
 The typing method is same as the general purpose program, and it also has built-in Pinyin input method, but it doesn't support phrases or sentences yet. 
 
 Note: If some phone or computer can't open the above link, you can go to baidu.com to search for 'hanzishu.com', and the search result would show something like "Can't fnd this url. You can directly visit hanzishu.com". Click the link and it should open the web page.
 
 
-8． Puzzle typing method: Typing practice course
+8． Pictographic typing method: Typing practice course
 
-Hanzishu puzzle typing method comes with a practice course.
+Hanzishu pictographic typing method comes with a practice course.
 
 As mentioned earlier, first go to the Hanzishu web site or phone app, from the main menu, select 'typing'. The typing exercises include input method course, single component typing exercies and common character practices.
 

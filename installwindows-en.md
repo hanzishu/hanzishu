@@ -1,5 +1,5 @@
 ﻿
-Windows computers：Install Hanzishu Puzzle Input Method (Weasel platform)
+Windows computers：Install Hanzishu Pictographic Input Method (Weasel platform)
 
 Download and run installation program. Detailed steps are shown below. 
 
@@ -48,7 +48,7 @@ Input method menu will look like below
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/choosechinese.png)
 
-Now every time you need, you can choose Weasel as shown in step 2c, then you can follow the Hanzishu puzzle typing to type Chinese characters in any program, like Notepad，browser, Microsoft Word or Excel etc，and can also use Pinyin reverse searching. For example, in Notepad, if typing “ooo”, you would see following image with ‘品’as the first choice. More details in previous page’s usage link.
+Now every time you need, you can choose Weasel as shown in step 2c, then you can follow the Hanzishu pictographic typing to type Chinese characters in any program, like Notepad，browser, Microsoft Word or Excel etc，and can also use Pinyin reverse searching. For example, in Notepad, if typing “ooo”, you would see following image with ‘品’as the first choice. More details in previous page’s usage link.
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/starttyping.png)
 

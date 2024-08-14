@@ -1,5 +1,5 @@
 ﻿
-苹果电脑: 安装Rime鼠须管输入法框架和汉字树拼形输入法（注：将逐步简化安装步骤）
+苹果电脑: 安装Rime鼠须管输入法框架和汉字树象形输入法（注：将逐步简化安装步骤）
 
 
 1）用游览器从以下网址下载并安装鼠须管输入法框架 
@@ -21,7 +21,7 @@ https://rime.im/download/
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/choosesquirrel.png)
                       
-3） 安装汉字树拼形输入法和袖珍拼音文件
+3） 安装汉字树象形输入法和袖珍拼音文件
 
 从一个终端，执行以下指令 （建议一行一行复制/拷贝）:
 
@@ -62,7 +62,7 @@ echo " - schema: pinyin_simp" >> ~/Library/Rime/default.custom.yaml
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/deploymenu.png)
                            
-现在，在需要时，你就可以按照第二步选择鼠须管, 在各个程序中,比如，游览器，微软的Word或Excel等，使用汉字树拼形输入法输入汉字了。
+现在，在需要时，你就可以按照第二步选择鼠须管, 在各个程序中,比如，游览器，微软的Word或Excel等，使用汉字树象形输入法输入汉字了。
 
 回到主网站读使用指南： https://github.com/hanzishu
 
