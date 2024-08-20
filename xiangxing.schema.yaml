@@ -6,9 +6,9 @@ schema:
   name: 象形
   version: "0.19.2"
   author:
-    - 王中琪 <john@hanzishu.com>
+    - 发明人 王中琪 <john@hanzishu.com>
   description:
-    汉字树象形输入法
+    汉字树象形输入法 http://www.hanzishu.cn
   dependencies:
     - pinyin_simp
 
