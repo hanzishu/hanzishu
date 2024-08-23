@@ -5,6 +5,10 @@ Hanzishu Pictographic Input Method
 
 1． Hanzishu Pictographic Input Method
 
+	"Typing according to shapes of components and upper case letters"
+
+	"Type whichever letter that looks like a component"
+
 A Chinse character typing method that breaks up Chinese words into Chinese alphabets, and types letters corresponding to the shape characteristics of the Chinese alphabets through standard keyboard to type Chinese word, phrases and sentences.  The shape intuitive method requires almost zero basic knowledge to start, and inlcudes built-in Pinyin for reverse searching and improving while using. One can also practice with the typing exercise courses and do it in one step. (Hint: For “品”, just type “OOO”。)
 
 The following is an illustrative chart of Chinese alphabets to keys mapping.
@@ -19,58 +23,15 @@ Windows computer installation: https://github.com/hanzishu/hanzishu/blob/main/in
 
 Apple computer installation: https://github.com/hanzishu/hanzishu/blob/main/installmac-en.md
 
-iPhone, Android phones and Unix computers: Similar as Windows and Mac computers, but are still under testing. You can use the specific editor as listed in section six and seven.
+iPhone installation: https://github.com/hanzishu/hanzishu/blob/main/installiphone-en.md
+
+Android phones and Unix computers: Similar as Windows and Mac computers, but are still under testing. You can use the specific editor as listed in section six and seven.
 
 Note: If necessary, you can download following installation video for Windows to take a look, it's only 1 minute long.
 https://raw.githubusercontent.com/hanzishu/hanzishu/main/video/InstallHanzishuTyping.mp4
 
-3．Usage of the general purpose Hanzishu pictographic input method
 
-Before typing, to use the Hanzishu input method, choose “Weasel” for Windows or “Squirrel” for Mac from computer‘s input method menu. Note that the general purpose version uses "Weasel/Squirrel/Rime" platform.
-
-1） Use left and right arrows “<” and “>” to move the candidate word group up and down.
-
-2） Pinyin within the Hanzishu and reverse look up of the Hanzishu code
-
-Hanzishu has built-in Pinyin method. You first type 'z' as an indicator, then type Pinyin. If you want to type Chinese character '森' using the built-in Pinyin, you type 'z' first, then type Pinyin 'sen'. At this time, the editor screen would show "zsen', the candidate characters including ‘森’ are there for you to choose. Next to the ‘森’, the Hanzishu code of 'eki' is listed for your review.
-
-3） Automatic phrase creation
-
-After you type two to 10 words with their full code once without selection in between, you can type them as phrase next time.   You can also use the full code of an existing phrase along with words to create a longer phrase.
-
-4） Deletion of automatic created phrases
-
-If you want to delete a custom-auto-made phrase, you can more the cursor (with up and down arrow keys) to the custom-auto-made phrase, then press Shift+Delete or Control+Delete for Windows computers, and Shift+Fn+Delete for Mac computers.
-
-Note: Current Rime framework has an issue. Sometimes the framework server would not respond to a user's typing. A tempararily method is: Under Windows computer, from File Manager, go to [c:]\Program files(x86)\Rime\hanzishu-weasel-0.15.0\, use mouse the restart 'WeaselServer.exe'. Under Mac computer, first switch to a different input method, then switch back.
-
-4． Components of the Hanzishu pictographic input method
-
-1） Standard
-
-Pictographic input method is based on the national standard of basic components defined in <Chinese Character Component Standard of GB 13000.1 Character Set for Information Processing>, therefore it has the authority and scientificity.
-
-
-2） Hanzishu pictographic input method's categorization of the Chinese Character basic components (simplified as 'components' in this document)
-
-All components are divided into five large categories and 25 smaller categories, corresponding to 25 upper case letters.
-
-- Direction categories： Open up（凵/U）， Open down（冂/N），Open left（/S），Open right（匚/C）
-- Mouth categories： Single mouth （口/O），Up & down mouth（日/B），four mouths（田/Q）
-- Leg categories： Human legs（人/A），crossed legs（乂/X），left & right legs（尺/R），separated legs（八/V），three legs（木/M）
-- Common shape categories：T shape（丁/T），D shape（刀/D），P shape（卩/P），cliff（厂/F），triangle（厶/G），H shape（艹/H），K shape（长/K）
-- Stroke categories：Horizontal lines（E/E），Vertical lines（丨/I），Arc as 1st stroke（丿/J），Pure dots（/W），Mixed dots（丫/Y），L shape（L/L）
-   
-3） Illustration of components/key mapping
-       
-![alt text](https://github.com/hanzishu/hanzishu/blob/main/keymapping.png)
-
-4） Components/key mapping according to the main characteristics of the components
-   
-![alt text](https://github.com/hanzishu/hanzishu/blob/main/detailedkeymapping.png)
-       
-
-5． Method of inputting components in the pictographic input method
+3． Method of inputting components in the pictographic input method
 
 1） Input components:
 
@@ -98,6 +59,52 @@ Steps to type word ‘品’:
 - If‘品’doesn’t show up，please repeat the above for the second and third alphabets until it shows up
 - If‘品’ displays in a later position, you can continue to type in more alphabets to make it rank earlier
 - The English letters in the editing field that represents ‘品’will be converted to word ‘品’ automatically.
+
+4） Pinyin within the Hanzishu and reverse look up of the Hanzishu code
+
+Hanzishu has built-in Pinyin method. You first type 'z' as an indicator, then type Pinyin. If you want to type Chinese character '森' using the built-in Pinyin, you type 'z' first, then type Pinyin 'sen'. At this time, the editor screen would show "zsen', the candidate characters including ‘森’ are there for you to choose. Next to the ‘森’, the Hanzishu code of 'eki' is listed for your review.
+
+
+4． Components of the Hanzishu pictographic input method
+
+1） Standard
+
+Pictographic input method is based on the national standard of basic components defined in <Chinese Character Component Standard of GB 13000.1 Character Set for Information Processing>, therefore it has the authority and scientificity.
+
+2） Hanzishu pictographic input method's categorization of the Chinese Character basic components (simplified as 'components' in this document)
+
+All components are divided into five large categories and 25 smaller categories, corresponding to 25 upper case letters.
+
+- Direction categories： Open up（凵/U）， Open down（冂/N），Open left（/S），Open right（匚/C）
+- Mouth categories： Single mouth （口/O），Up & down mouth（日/B），four mouths（田/Q）
+- Leg categories： Human legs（人/A），crossed legs（乂/X），left & right legs（尺/R），separated legs（八/V），three legs（木/M）
+- Common shape categories：T shape（丁/T），D shape（刀/D），P shape（卩/P），cliff（厂/F），triangle（厶/G），H shape（艹/H），K shape（长/K）
+- Stroke categories：Horizontal lines（E/E），Vertical lines（丨/I），Arc as 1st stroke（丿/J），Pure dots（/W），Mixed dots（丫/Y），L shape（L/L）
+   
+3） Illustration of components/key mapping
+       
+![alt text](https://github.com/hanzishu/hanzishu/blob/main/keymapping.png)
+
+4） Components/key mapping according to the main characteristics of the components
+   
+![alt text](https://github.com/hanzishu/hanzishu/blob/main/detailedkeymapping.png)
+   
+    
+5．A few input method framework features
+
+Before typing, to use the Hanzishu input method, choose “Weasel” for Windows or “Squirrel” for Mac from computer‘s input method menu. Note that the general purpose version uses "Weasel/Squirrel/Rime" platform.
+
+1） Use left and right arrows “<” and “>” to move the candidate word group up and down.
+
+2） Automatic phrase creation
+
+After you type two to 10 words with their full code once without selection in between, you can type them as phrase next time.   You can also use the full code of an existing phrase along with words to create a longer phrase.
+
+3） Deletion of automatic created phrases
+
+If you want to delete a custom-auto-made phrase, you can move the cursor (with up and down arrow keys) to the custom-auto-made phrase, then press Shift+Delete or Control+Delete for Windows computers, and Shift+Fn+Delete for Mac computers.
+
+Note: Current Rime framework has an issue. Sometimes the framework server would not respond to a user's typing. A tempararily method is: Under Windows computer, from File Manager, go to [c:]\Program files(x86)\Rime\hanzishu-weasel-0.15.0\, use mouse the restart 'WeaselServer.exe'. Under Mac computer, first switch to a different input method, then switch back.
 
 
 6． Phone version of specific editor that supports pictographic typing method
