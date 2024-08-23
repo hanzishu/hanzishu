@@ -22,3 +22,5 @@ https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing.zip
 4. 将手机屏幕往上移一下，离开iRime app（这时候iRime/象形输入法已经准备好，可以用了）。
 
 如何使用： 打开一个你想运行的程序，比如微信（如果微信已经在运行了，应该退出并重新打开），在任何可以打字的时候，点击输入法选择图标（那个地球图标），然后选择"iRime"(上一步在iRime内已经选择象形输入法)，然后就可以按照象形输入法打字了（比如：打‘品’字，就打‘ooo’）。
+
+回到主网站读使用指南： https://github.com/hanzishu

@@ -24,3 +24,5 @@ FOURTH STEP: Settings for the input method
 4. Move up the iPhone screen to exit iRime app(at this time, iRime/Pictographic typing method is ready for you to use).
 
 How to use: Open a program you want to use, for example, WeChat (if it's already in use, you should exit it and reopen it), at any place you can type, choose input method icon (that earth looking icon), then choose "iRime" (You have chosen pictographic typing method earlier within iRime), and you can type Chinese characters according to the rules of pictographic typing method (ex: in order to type "品"，type ‘ooo’.)
+
+Back to the main instruction page： https://github.com/hanzishu/hanzishu/blob/main/README-en.md
