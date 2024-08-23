@@ -5,8 +5,9 @@ iPhone上安装象形输入法的步骤
 
 第二步： 下载象形输入法文件
 1. 打开一个电脑（Windows或苹果），用同一个WiFi网络，从下列网络下载象形输入法文件压缩包：
-https://github.com/hanzishu/hanzishu/blob/main/xiangxing.zip
-2。打开电脑的文件管理器，走到下载文件夹 [c:]\users\[用户名]\downloads，用鼠标右键在上列zip压缩包上点击两下，将它里面的三个文件解包出来备用。 
+https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing.zip
+
+2. 打开电脑的文件管理器，走到下载文件夹 [c:]\users\[用户名]\downloads，用鼠标右键在上列zip压缩包上点击两下，将它里面的三个文件解包出来备用。 
 
 第三步： 将电脑里的象形输入法文件同步到iPhone
 1. 在手机屏幕上打开iRime程序， 选择“电脑快传”，记下它显示的网址（比如： http://x.x.x.x），别关机。

@@ -7,7 +7,7 @@ In an environment with wifi, open iPhone, use wife network, at App Store, search
 SECOND STEP: Download documents specific for pictographic typing method
 
 1. Open a computer (Windows and Apple), use the same WiFi network, download a compressed zip file with pictographic typing method from the following link:
-https://github.com/hanzishu/hanzishu/blob/main/xiangxing.zip
+https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing.zip
 
 2. Open the File Manager from the computer, go to download folder at: [c:]\users\[your_user_name]\downloads，double click the zip file using mouse's right button and extract its three files to be used later. 
 
