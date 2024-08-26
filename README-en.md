@@ -25,7 +25,9 @@ Apple computer installation: https://github.com/hanzishu/hanzishu/blob/main/inst
 
 iPhone installation: https://github.com/hanzishu/hanzishu/blob/main/installiphone-en.md
 
-Android phones and Unix computers: Similar as Windows and Mac computers, but are still under testing. You can use the specific editor as listed in section six and seven.
+Android phone installation: https://github.com/hanzishu/hanzishu/blob/main/installandroid-en.md
+
+Linux computer installation: https://github.com/hanzishu/hanzishu/blob/main/installlinux-en.md
 
 Note: If necessary, you can download following installation video for Windows to take a look, it's only 1 minute long.
 https://raw.githubusercontent.com/hanzishu/hanzishu/main/video/InstallHanzishuTyping.mp4
@@ -73,10 +75,9 @@ Pictographic input method is based on the national standard of basic components 
 
 2） Hanzishu pictographic input method's categorization of the Chinese Character basic components (simplified as 'components' in this document)
 
-All components are divided into five large categories and 25 smaller categories, corresponding to 25 upper case letters.
+All components are divided into four large categories and 25 smaller categories, corresponding to 25 upper case letters.
 
-- Direction categories： Open up（凵/U）， Open down（冂/N），Open left（/S），Open right（匚/C）
-- Mouth categories： Single mouth （口/O），Up & down mouth（日/B），four mouths（田/Q）
+- Mouth categories： Single mouth （口/O），Up & down mouth（日/B），four mouths（田/Q），Open up（凵/U）， Open down（冂/N），Open left（/S），Open right（匚/C）
 - Leg categories： Human legs（人/A），crossed legs（乂/X），left & right legs（尺/R），separated legs（八/V），three legs（木/M）
 - Common shape categories：T shape（丁/T），D shape（刀/D），P shape（卩/P），cliff（厂/F），triangle（厶/G），H shape（艹/H），K shape（长/K）
 - Stroke categories：Horizontal lines（E/E），Vertical lines（丨/I），Arc as 1st stroke（丿/J），Pure dots（/W），Mixed dots（丫/Y），L shape（L/L）

@@ -24,7 +24,9 @@ Windows视窗电脑(>=8.1)安装: https://github.com/hanzishu/hanzishu/blob/main
 
 iPhone苹果手机安装: https://github.com/hanzishu/hanzishu/blob/main/installiphone.md
 
-安卓手机和Unix电脑，: 通用版本还在测试中，可以先使用本输入法网络版或专用手机版的编辑器，见笫六和笫七节。
+Android安卓手机装: https://github.com/hanzishu/hanzishu/blob/main/installandroid.md
+
+Linux电脑安装: https://github.com/hanzishu/hanzishu/blob/main/installlinux.md
 
 注： 需要时可以下载以下视窗电脑安装全过程视频看一下，仅一分钟时间：https://raw.githubusercontent.com/hanzishu/hanzishu/main/video/InstallHanzishuTyping.mp4
 
@@ -69,8 +71,7 @@ iPhone苹果手机安装: https://github.com/hanzishu/hanzishu/blob/main/install
 
 将所有部件分成五大类，二十五小类，分别对应于25个英文大写字母。
 
-- 方向类别：上开口（凵/U）， 下开口（冂/N），左开口（/S），右开口（匚/C）
-- 口类别：单口（口/O），上下口（日/B），四张口（田/Q）
+- 口类别：单口（口/O），上下口（日/B），四张口（田/Q），上开口（凵/U）， 下开口（冂/N），左开口（/S），右开口（匚/C）
 - 腿形类别： 人腿（人/A），交叉腿（乂/X），左右腿（尺/R），分开腿（八/V），三条腿（木/M）
 - 常见形类别：丁形（丁/T），刀形（刀/D），单耳（卩/P），厂形（厂/F），三角形（厶/G），草字头（艹/H），长形（长/K）
 - 笔画类别：横为主(E/E），竖为主（丨/I），撇为首（丿/J），单纯点（/W），混合点（丫/Y），竖折（L/L）
