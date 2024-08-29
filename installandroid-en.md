@@ -5,12 +5,14 @@ FIRST STEP: Download Trime typing method engine
 
 1.	In your Android phone, open a web brower, and enter and go to the following address:
 https://f-droid.org/packages/com.osfans.trime
+Note: If you are unable to open the above address, you can download the following copy directly, then move to SECOND STEP.
+	https://raw.githubusercontent.com/hanzishu/hanzishu/main/trime.apk
 2.	Find “Version 3.2.19”, then move down a bit, and click “Download APK”.
 
 
 SECOND STEP: Install Trime input method engine
 
-1.	Launch “Files” app from main screen. From “Categories”->”Downloads” folder, Click the “com.osfans.trime_20240701.apk”.
+1.	Launch “Files” app from main screen. From “Categories”->”Downloads” folder, Click the “com.osfans.trime_20240701.apk” to run (or click "trime.apk" to run).
 2.	When prompted with a message: “Do you want to install this app?”, choose “Install”.
 3.	When prompted “Trime is installed”. Click “Open”.
 4.	At“Step 1”prompt,  Click “REQUEST STORAGE PERMISSION”, then move the circle to right side to indicate “Allow access to manage all files”.
@@ -23,7 +25,7 @@ Note：If these steps are interrupted, you can start over from 2).
 
 THIRD STEP: Download files specific for pictographic typing method
 1. Open a brower and enter following address to download the zip file:
-https://github.com/hanzishu/xiangxing_tongwen.zip
+https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing_tongwen.zip
 
 When you will see a prompt saying “File can’t be downloaded securely”. Choose “Keep”.
 

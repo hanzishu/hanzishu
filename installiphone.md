@@ -1,4 +1,4 @@
-iPhone上安装象形输入法的步骤 
+iPhone: 安装象形输入法的步骤 
 
 第一步： 安装iRime输入法引擎。
 在一个有wifi的环境下，打开iPhone，使用wifi网络，在应用商店（App Store）上检索“iRime”，然后选择“iRime输入法-..."安装；

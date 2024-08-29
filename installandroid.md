@@ -3,10 +3,12 @@
 第一步：下载Trime输入法引擎
 1.	在安卓手机中，打开一个游览器，并打入下列网址：
 https://f-droid.org/packages/com.osfans.trime
+注：如果你无法打开以上网址，你可以直接下载以下的复制文件, 然后继续第二步。
+https://raw.githubusercontent.com/hanzishu/hanzishu/main/trime.apk
 2.	找到版本 “Version 3.2.19”, 然后向下移动一点，选择 “Download APK”.
 
 第二步：安装Trime输入法引擎
-1.	从主屏幕打开 “文件/Files” app， 从”类别”，到”下载文件夹”，选择“com.osfans.trime_20240701.apk”.
+1.	从主屏幕打开 “文件/Files” app， 从”类别”，到”下载文件夹”，选择“com.osfans.trime_20240701.apk”安装 (或者选择“trime.apk"安装).
 2.	看到提示“你想安装这个程序吗?”, 选择 “安装”.
 3.	看到“Trime已经安装了”，选择 “打开”.
 4.	在“第一步设置”提示,  选择 “请求存储空间许可”,  然后将园心移向右边，表示“允许管理所有文件”。
@@ -19,7 +21,7 @@ https://f-droid.org/packages/com.osfans.trime
 
 第三步：下载象形输入法相关文件
 1. 打开一个游览器并且打入下列网址：
-https://hanzishu.com/xiangxing/xiangxing_tongwen.zip
+https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing_tongwen.zip
 当你看到“无法安全地下载文件“时, 选择”保留“。
 
 第四步：将象形输入法文件存到指定的文件夹
