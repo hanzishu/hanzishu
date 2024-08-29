@@ -5,6 +5,7 @@ FIRST STEP: Download Trime typing method engine
 
 1.	In your Android phone, open a web brower, and enter and go to the following address:
 https://f-droid.org/packages/com.osfans.trime
+
 Note: If you are unable to open the above address, you can download the following copy directly, then move to SECOND STEP.
 	https://raw.githubusercontent.com/hanzishu/hanzishu/main/trime.apk
 2.	Find “Version 3.2.19”, then move down a bit, and click “Download APK”.
