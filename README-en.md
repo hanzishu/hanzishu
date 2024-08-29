@@ -21,11 +21,11 @@ After installing the program, all other programs in the computer can use this in
    
 Windows computer installation: https://github.com/hanzishu/hanzishu/blob/main/installwindows-en.md
 
-Apple computer installation: https://github.com/hanzishu/hanzishu/blob/main/installmac-en.md
+Android phone installation: https://github.com/hanzishu/hanzishu/blob/main/installandroid-en.md
 
 iPhone installation: https://github.com/hanzishu/hanzishu/blob/main/installiphone-en.md
 
-Android phone installation: https://github.com/hanzishu/hanzishu/blob/main/installandroid-en.md
+Apple computer installation: https://github.com/hanzishu/hanzishu/blob/main/installmac-en.md
 
 Linux computer installation: https://github.com/hanzishu/hanzishu/blob/main/installlinux-en.md
 

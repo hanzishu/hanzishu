@@ -20,11 +20,11 @@
    
 Windows视窗电脑(>=8.1)安装: https://github.com/hanzishu/hanzishu/blob/main/installwindows.md
 
-苹果电脑安装: https://github.com/hanzishu/hanzishu/blob/main/installmac.md
+Android安卓手机安装: https://github.com/hanzishu/hanzishu/blob/main/installandroid.md
 
 iPhone苹果手机安装: https://github.com/hanzishu/hanzishu/blob/main/installiphone.md
 
-Android安卓手机装: https://github.com/hanzishu/hanzishu/blob/main/installandroid.md
+苹果电脑安装: https://github.com/hanzishu/hanzishu/blob/main/installmac.md
 
 Linux电脑安装: https://github.com/hanzishu/hanzishu/blob/main/installlinux.md
 
