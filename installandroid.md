@@ -3,6 +3,7 @@
 第一步：下载Trime输入法引擎
 1.	在安卓手机中，打开一个游览器，并打入下列网址：
 https://f-droid.org/packages/com.osfans.trime
+
 注：如果你无法打开以上网址，你可以直接下载以下的复制文件, 然后继续第二步。
 https://raw.githubusercontent.com/hanzishu/hanzishu/main/trime.apk
 2.	找到版本 “Version 3.2.19”, 然后向下移动一点，选择 “Download APK”.
