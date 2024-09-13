@@ -14,8 +14,12 @@ https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing.zip
 THIRD STEP: sync the documents for pictographic typing method from computer to iPhone
 1. From iPhone screen, open the iRime app, choose "PC Pass iRime", record its network address (ex: http://x.x.x.x), and keep the iPhone open;
 2. From the computer, open a browser, enter the network address from last step (you will then be able to see the iRime files that were installed to iPhone);
-3. From this interface, click "SharedSupport" folder to go to that folder (you will see a lot of files there), then choose "Upload files";
-4. Find the three files extracted earlier, and choose "Open" (then these three files will be synced to iPhone). 
+3. From this interface, click "SharedSupport" folder to go to that folder (you will see a lot of files there)
+If you are unable to go to "SharedSupport" folder, try to re-launch your browser.
+![alt text](https://github.com/hanzishu/hanzishu/blob/main/iphonepcsupport.png)
+4. Choose "Upload files"
+![alt text](https://github.com/hanzishu/hanzishu/blob/main/iphonepcfileupload.png)
+5. Find the three files extracted earlier, and choose "Open" (then these three files will be synced to iPhone). 
 
 FOURTH STEP: Settings for the input method
 1. Go back to iPhone's iRime interface, exit one layer from up left corner's arrow;

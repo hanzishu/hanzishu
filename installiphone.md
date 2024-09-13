@@ -10,10 +10,14 @@ https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing.zip
 2. 打开电脑的文件管理器，走到下载文件夹 [c:]\users\[用户名]\downloads，用鼠标右键在上列zip压缩包上点击两下，将它里面的三个文件解包出来备用。 
 
 第三步： 将电脑里的象形输入法文件同步到iPhone
-1. 在手机屏幕上打开iRime程序， 选择“电脑快传”，记下它显示的网址（比如： http://x.x.x.x），别关机。
+1. 在手机屏幕上打开iRime程序， 选择“电脑快传”，记下它显示的网址（比如： http://x.x.x.x），别关机或锁屏。
 2. 在电脑上打开一个浏览器，打入前面得到的网址（你将在这个浏览器的界面上同步看到iPhone上在第一步装的iRime文件）； 
-3. 在这个界面中点击进入SharedSupport文件夹，然后选择“上载文件”； 
-4. 找到上面三个解包出来的文件，选择“打开”（电脑上的文件将同步到iPhone上）。 
+3. 在这个界面中点击进入SharedSupport文件夹
+如果进不去，可以试试重新打开游览器。
+![alt text](https://github.com/hanzishu/hanzishu/blob/main/iphonepcsupport.png)
+4. 然后选择“上载文件”
+![alt text](https://github.com/hanzishu/hanzishu/blob/main/iphonepcfileupload.png)
+5. 找到上面三个解包出来的文件，选择“打开”（电脑上的文件将同步到iPhone上）。 
 
 第四步： 输入法设置
 1. 回到 iPhone中的iRime界面，选择左上方的左箭头退回到上一层界面； 
