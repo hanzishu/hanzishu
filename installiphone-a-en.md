@@ -1,7 +1,7 @@
 iPhone installation steps for Pictographic input method (象形输入法) (“仓输入法/Hamster” engine - recommended method）   
 
 FIRST STEP: install “仓输入法/Hamster” engine
-Open iPhone，at App Store, search for “仓输入法” (can copy/paste from here), then choose to download/install “仓输入法"；（After install, when you see "Open”, you can open it to initialize, then exit)；
+Open iPhone，at App Store, search for “仓输入法” (can copy/paste from here), then choose to download/install “仓输入法"；（After install, when you see "Open”, you can choose cancel)；
 
 SECOND STEP: add “仓输入法/Hamster” engine into iPhone input method list
 After installation, from "Settings" app, choose: General->Keyboard->Keyboard, then move screen to bottom, choose "Add New Keyboard...", then find and choose just installed "Hamster" engine.
