@@ -22,7 +22,9 @@ Windows视窗电脑(>=8.1)安装: https://github.com/hanzishu/hanzishu/blob/main
 
 Android安卓手机安装: https://github.com/hanzishu/hanzishu/blob/main/installandroid.md
 
-iPhone苹果手机安装: https://github.com/hanzishu/hanzishu/blob/main/installiphone.md
+iPhone苹果手机安装： (“仓输入法/Hamster”引擎 - 推荐方案）   https://github.com/hanzishu/hanzishu/blob/main/installiphone-a.md
+
+iPhone苹果手机安装: (“iRime”引擎 - 备用方案）https://github.com/hanzishu/hanzishu/blob/main/installiphone.md
 
 苹果电脑安装: https://github.com/hanzishu/hanzishu/blob/main/installmac.md
 

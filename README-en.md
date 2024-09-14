@@ -23,7 +23,9 @@ Windows computer installation: https://github.com/hanzishu/hanzishu/blob/main/in
 
 Android phone installation: https://github.com/hanzishu/hanzishu/blob/main/installandroid-en.md
 
-iPhone installation: https://github.com/hanzishu/hanzishu/blob/main/installiphone-en.md
+iPhone installation： (“Hamster” engine - recommended method）   https://github.com/hanzishu/hanzishu/blob/main/installiphone-a-en.md
+
+iPhone installation: ("iRime" engine - backup method) https://github.com/hanzishu/hanzishu/blob/main/installiphone-en.md
 
 Apple computer installation: https://github.com/hanzishu/hanzishu/blob/main/installmac-en.md
 

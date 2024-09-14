@@ -1,4 +1,4 @@
-iPhone: Installing pictographic typing method (象形输入法) 
+iPhone: Installing pictographic typing method (象形输入法)  [iRime engine - backup method]
 
 FIRST STEP: Install iRime input method engine
 
