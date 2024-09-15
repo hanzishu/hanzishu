@@ -7,7 +7,7 @@ SECOND STEP: add “仓输入法/Hamster” engine into iPhone input method list
 After installation, from "Settings" app, choose: General->Keyboard->Keyboard, then move screen to bottom, choose "Add New Keyboard...", then find and choose just installed "Hamster" engine.
 
 THIRD STEP： download zip file for pictographic input method
-https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing.zip
+https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing_pinyin.zip
 (Note: After successful download, you could see the zip file from 'Files' app's 'Recents' column.)
 
 FOUR STEP: Set input method
