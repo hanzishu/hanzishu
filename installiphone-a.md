@@ -8,14 +8,15 @@ iPhone上安装象形输入法的步骤 (“仓输入法/Hamster”引擎 - 推�
 
 第三步： 下载象形输入法文件
 https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing_pinyin.zip
-（注：下载成功后，在“文件/Files”App中的“最近/Recents”栏下应该可以看到该文件。）
+注1： 有的游览器直接提示后就下载并且存储了；有的游览器用机器生成的长文件名（记住这个名字），还让你先选择“用什么程序打开/Open in other app"。然后，你可以再选择“存储文件/Save to Files”。
+注2: 下载成功后，在“文件/Files”App中的“最近/Recents”栏下应该可以看到该文件。
 
 第四步： 设置输入法方案
 1）打开新安装的“Hamster”App；
 2）选择“输入方案设置/Input method settings”；
 3）选右上角‘十”号；
 4）选择“导入方案/Import method”；
-5）（在“最近/Recents”栏下）找到并且点击第三步刚下载的文件“xiangxing.zip"。
+5）（在“最近/Recents”栏下）找到并且点击第三步刚下载的文件“xiangxing.zip"或者你前面记下的文件名。
 安装完毕！
 
 实际应用：

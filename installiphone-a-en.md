@@ -8,14 +8,15 @@ After installation, from "Settings" app, choose: General->Keyboard->Keyboard, th
 
 THIRD STEP： download zip file for pictographic input method
 https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing_pinyin.zip
-(Note: After successful download, you could see the zip file from 'Files' app's 'Recents' column.)
+Note1: Some browers would download and save the zip file to local upon simple confirmation; some browsers would use a long machine-created name (remember this name), and ask you to choose "Open in other app". Then you could choose "Save to Files".
+Note2: After successful download, you could see the zip file from 'Files' app's 'Recents' column.)
 
 FOUR STEP: Set input method
 1）Open the newly installed “Hamster” App；
 2）Choose “Input method settings”；
 3）Choose ‘十’ icon from up right corner；
 4）Choose “Import method”；
-5）（Under "Recents" column）Find and click the document "xiangxing.zip" downloaded in THIRD STEP.
+5）（Under "Recents" column）Find and click the downloaded file "xiangxing.zip" or a name you recorded earlier in THIRD STEP.
 Installation completes！
 
 Acutal usage:
