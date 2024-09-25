@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing_pinyin.zip
 
 将文件下载并且存储在本地文件夹中。（注：下载和存储可能是两个步骤。成功后，，在“文件（Files）”程序中的“最近（Recents）”栏下应该可以看到该文件。）
 
-如果游览器下载文件后让你选择“用其它程序打开（Open in other app）"，你可以不选择将文件存储在本地文件夹中,而是选择直接用刚安装的“Hamster”引擎来打开这个文件，从而可以省略第四步安装。
+如果游览器下载文件后还让你选择“用其它程序打开（Open in other app）"，你可以直接选择刚安装的“Hamster”引擎来打开这个文件，从而不用将文件存储到本地文件夹中，而且可以省略第四步安装。
 
 第四步： 设置输入法方案
 1）打开新安装的“Hamster”App；
