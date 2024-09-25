@@ -24,4 +24,6 @@ Installation completes！
 Acutal usage:
 Open a program you want, like "Notes", then, click the input method selection icon (an earth icon), choose the newly installed "Hamster" input method engine, then you can use pictographic input method to type Chinese characters, for example, type "ooo", it will show '品' among others for you to choose.
 
+Back to the main instruction page： https://github.com/hanzishu/hanzishu/blob/main/README-en.md
+
 

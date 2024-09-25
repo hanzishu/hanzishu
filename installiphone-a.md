@@ -24,3 +24,4 @@ https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing_pinyin.zip
 实际应用：
 打开你想用的程序，比如"Notes",然后，点击左下角的输入法选择图标（地球仪），选择刚安装的“Hamster”输入法引擎就可以用象形输入法规则打字了，比如，打“ooo”就显示出‘品’字等供选择。
 
+回到主网站读使用指南： https://github.com/hanzishu
