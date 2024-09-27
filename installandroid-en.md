@@ -23,22 +23,22 @@ Note：If these steps are interrupted, you can start over from 2).
 6.	At “Step 2”prompt,  click “ENABLE INPUT METHOD”, and choose Trime by moving the corresponding circle to right position, then choose “OK” and“OK”. (Make sure that the circle is on the right position).
 7.	Use upper left arrow to move back to step 2, click “NEXT”,
 8.	At “Step 3” prompt, click “SELECT INPUT METHOD”, and choose “Trime”, then choose “Done”.
-9.	You can then grant permission for notification or cancel.
+9.	You can then grant permission for notification or cancel. Then exit.
 
 THIRD STEP: Download files specific for pictographic typing method
 1. Open a brower and enter following address to download the zip file:
 https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing_tongwen.zip
 
-When you will see a prompt saying “File can’t be downloaded securely”. Choose “Keep”.
+Download the above zip file. (If you see a prompt saying “File can’t be downloaded securely”. Choose “Keep”.)
 
 
 FOURTH STEP: Put files for pictographic typing method in the right folders
 
-1.	Launch “Files” app from main screen. From “Categories”->”Downloads” folder, double click “xiangxing_tongwen.zip”. You will see a prompt message of “Extract ‘xiangxing_tongwen.zip’?”, choose “Extract”, then choose “Done”.
+1.	Launch “Files” app from main screen. From “Categories”->"Downloads” folder, double click “xiangxing_tongwen.zip”. You will see a prompt message of “Extract ‘xiangxing_tongwen.zip’?”, choose “Extract”, then choose “Done”.
 2.	Click “xiangxing_tongwen”on the top next to “Download”, you will see all the extracted files.
-3.	Click a “three dots” icon on up right corner to choose “Select all” files, then click the “three dots” icon again and choose “Copy to”. It will lead you to Internal storage. Choose “Rime” folder, then choose “Copy here”.
-4.	Click the “three dots” icon again, and choose “Select all” files, uncheck the last two files “key_bindings.yaml” and “default.yaml”, then click the “three dots” icon again and choose “Copy to”. Choose “Rime”, then “build”. Then click “Move here”. Those files will be copied to rime\build folder as well.
-
+3.	Copy all files under "xiangxing_tongwen" (but not including the folder itself) to "Internal Storage's "Rime" folder;
+4.	Re-copy all files under "xiangxing_tongwen" (but not including the folder itself) to "Internal Storage's "Rime/Build" folder;
+ 
 
 FIFTH STEP: Deploy the pictographic input method
 
