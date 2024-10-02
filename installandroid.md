@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/hanzishu/hanzishu/main/xiangxing_tongwen.zip
 1.	从主屏幕打开“文件/Files” app，找到“类别”-> “下载”文件夹, 双按 “xiangxing_tongwen.zip”将它解压. （如果看到“解压文件‘xiangxing_tongwen.zip’?”时，选择“解压”，然后选择“完成“。）
 2.	从屏幕顶部选择挨者“下载”目录边上刚生成的“xiangxing_tongwen”目录, 你将看到所有打包出来的文件。
 3.	将“xiangxing_tongwen”文件夹下的所有文件（不包括文件夹本身）拷贝到“内部存储”中的“Rime”文件夹；
-4.	再将“xiangxing_tongwen”文件夹下的所有文件（不包括文件夹本身）拷贝到“内部存储”中的“Rime/Build”文件夹。
+4.	再将“xiangxing_tongwen”文件夹下的所有文件（不包括文件夹本身）拷贝到“内部存储”中的“Rime/Build” 子文件夹。
 
 第五步：部置象形输入法
 1. 打开“Trime”app;

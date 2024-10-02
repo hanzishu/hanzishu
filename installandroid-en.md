@@ -37,7 +37,7 @@ FOURTH STEP: Put files for pictographic typing method in the right folders
 1.	Launch “Files” app from main screen. From “Categories”->"Downloads” folder, double click “xiangxing_tongwen.zip”. You will see a prompt message of “Extract ‘xiangxing_tongwen.zip’?”, choose “Extract”, then choose “Done”.
 2.	Click “xiangxing_tongwen”on the top next to “Download”, you will see all the extracted files.
 3.	Copy all files under "xiangxing_tongwen" (but not including the folder itself) to "Internal Storage's "Rime" folder;
-4.	Re-copy all files under "xiangxing_tongwen" (but not including the folder itself) to "Internal Storage's "Rime/Build" folder;
+4.	Re-copy all files under "xiangxing_tongwen" (but not including the folder itself) to "Internal Storage's "Rime/Build" sub-folder.
  
 
 FIFTH STEP: Deploy the pictographic input method
