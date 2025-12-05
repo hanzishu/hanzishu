@@ -41,9 +41,11 @@ https://raw.githubusercontent.com/hanzishu/hanzishu/main/video/InstallHanzishuTy
 
 - Chinese word: type the corresponding letters of Chinese alphabets it contains in sequence. （Ex：口：'口'-〉'o'； 吕： '口口'-〉'oo'； 品:'口口口'-〉'ooo'）
 
-- Word phrase: For two word phrases, type first two Chinese alphabets of every word. (例：忠厚: 中心厂日: olfb; 中文: 中文: ox)。 
+- Word phrase: For two word phrases, type first two Chinese alphabets of every word. (Ex：忠厚: 中心厂日: olfb; 中文: 中文: ox)。 
 
-- Three or more than three words: type first Chinese alphabet of each word。（例：中国人： 中口人: ooa）
+- Three or more than three words: type first Chinese alphabet of each word。（Ex：中国人： 中口人: ooa）
+
+- ［Optional feature］ Single-component character, double-component character, phrase consisted of two-single-component characters: after typing according to above rules, can type two more strokes from the latter component. (Ex: "明”， type "bn" first, then can type "js" which comes from the first two strokes of the latter component '月'.)
 
 2） Rules for breaking up words into Chinese alphabets
 

@@ -5,9 +5,9 @@
 
 1. 从游览器按以下链接或者打入以下网址并选择下载该文件
 
-https://raw.githubusercontent.com/hanzishu/hanzishu/main/weasel-0.16.1.0-installer.exe
+https://raw.githubusercontent.com/hanzishu/hanzishu/main/hanzishu-0.19.2.2-weasel-0.1.0-installer.exe
    
-2. 鼠标双按下载了的weasel-0.16.1.0-installer.exe文件来安装程序。
+2. 鼠标双按下载了的hanzishu-0.19.2.2-weasel-0.1.0-installer.exe文件来安装程序。
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installerfile.png)
 
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/hanzishu/hanzishu/main/weasel-0.16.1.0-install
 
 按“中”。
               
-8. 接“完成”键关闭安装程序
+8. 接“完成”键关闭安装程序 (注：在一个选择中，选“不要”自动重新）
 
 ![alt text](https://github.com/hanzishu/hanzishu/blob/main/installcomplete.png)
               
